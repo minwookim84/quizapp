@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1379" measuredH="844" mockupW="1280" mockupH="840">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="99" y="4" w="1280" h="840" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="638" y="104" w="-1" h="-1" measuredW="203" measuredH="45" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>40</size>
+        <text>Guitar%20Quiz</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="391" y="575" w="697" h="94" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>32</size>
+        <text>Take%20The%20Quiz%20%26%20%0AProve%20Your%20Knowledge%20of%20Guitar%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="651" y="677" w="177" h="70" measuredW="122" measuredH="45" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>PLAY</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="456" y="168" w="566" h="378" measuredW="1000" measuredH="662" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/guitars.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
