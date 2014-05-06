@@ -101,7 +101,7 @@ function show6(){
 function showfinish(){
 	$('.finishpage').css({"display" : "block"});
 	$('#score').text(overallScore);
-	$('#scorepercent').text(overallScore/6 * 100);
+	$('#scorepercent').text((overallScore/6 * 100).toFixed(1));
 }
 
 
@@ -170,6 +170,9 @@ $(document).ready(function(){
 			}
 		}
 		}
+	});
+	$('.retry').click(function(){
+		location.reload();
 	});
 
 });
