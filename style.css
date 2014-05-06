@@ -1,0 +1,245 @@
+body{
+	background-color: #002613;
+	color: #d9d9d9;
+}
+
+div{
+	font-family: 'Ubuntu';
+}
+
+.container{
+	width: 960px;
+	margin: auto;
+}
+
+header{
+	height:80px;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* -----------------------------HOME PAGE----------------------------- */ 
+
+.homepage{
+	/* display: none; */
+}
+
+.title{
+	font-size: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top:32px;
+	margin-bottom:32px;
+	width: 600px;
+}
+
+.titleimg{
+	width:600px;
+	height:450px;
+	background-image: url('assets/guitar.png');
+	background-size: 600px 450px;
+	margin: auto;
+}
+
+.subtitle{
+	width:600px;
+	margin:auto;
+	margin-top:36px;
+	text-align: center;
+	font-size:24px;
+	line-height:36px;
+}
+
+.playbutton{
+	width: 220px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 48px;
+	text-align: center;
+	margin: auto;
+	margin-top: 30px;
+	background-color: #B0E4E2;
+	color: black;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+
+/* -----------------------------QUESTION PAGE  ----------------------------- */
+
+.qpage{
+	display: none;
+}
+
+.qheadline{
+	float:left;
+	font-size:36px;
+	height: 36px;
+	padding-top:28px;
+}
+
+.qnum{
+	float: left;
+	font-size: 74px;
+	margin-bottom: 24px;
+}
+
+.questions{
+	clear: both;
+	width: 640px;
+	margin: auto;
+	font-size: 24px;
+}
+
+.answers{
+	width: 680px;
+	height: 320px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.answer{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 250px;
+	height: 120px;
+	line-height: 120px;
+	border: 2px solid black;
+	border-radius: 15px;
+	margin: 16px 0 32px 0;
+	font-size: 32px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #E3E4CA;
+}
+
+.bgcolor_change{
+	background-color: white;
+}
+
+.answer_small{
+	font-size: 16px;
+	line-height: 16px;
+	padding-top: 48px;
+}
+
+.answer_mid{
+	font-size: 24px;
+	line-height: 24px;
+	padding-top: 48px;
+}
+
+.floatleft{
+	float:left;
+}
+.floatright{
+	float:right;
+}
+
+.btn{
+	clear:both;
+	width: 240px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 32px;
+	text-align: center;
+	margin: auto;
+	margin-top: 64px;
+	background-color: #B0E4E2;
+	color: rgb(25, 60, 5);
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+/* ----------------------------- CORRECT PAGE  ----------------------------- */
+
+
+.correctpage{
+	display: none;
+}
+
+.anshead{
+	width: 960px;
+	height: 88px;
+	text-align: center;
+	font-size: 64px;
+	margin: auto;
+	margin-bottom: 36px;
+	border-bottom: 3px solid rgb(161, 221, 214);
+}
+
+.ansimg{
+	width:400px;
+	height:300px;
+	background-size: 400px 300px;
+	float: left;
+}
+
+.correctimg{
+	background-image: url('assets/correct.png');
+}
+
+.explaincontainer{
+	width: 960px;
+	height: 300px;
+}
+
+.explain{
+	width: 480px;
+	float: left;
+	margin-left: 48px;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 1px;
+}
+
+
+/* ----------------------------- WRONG PAGE  ----------------------------- */
+.wrongpage{
+	display: none;
+}
+
+.wrongimg{
+	background-image: url('assets/wrong.png');
+}
+
+/* ------------- FINISHED PAGE --------------- */
+
+.finishpage{
+	display: none;
+}
+
+.finishhead{
+	width: 960px;
+	height: 88px;
+	text-align: center;
+	font-size: 64px;
+	margin: auto;
+	margin-bottom: 36px;
+	border-bottom: 3px solid rgb(161, 221, 214);
+}
+
+.finishimg{
+	width:600px;
+	height:450px;
+	background-image: url('assets/hendrix_fire.jpg');
+	background-size: 600px 450px;
+	margin: auto;
+}
+
+.score{
+	width:600px;
+	margin:auto;
+	margin-top:36px;
+	text-align: center;
+	font-size:24px;
+	line-height:36px;
+}
+
+
+

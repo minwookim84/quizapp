@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Guitar Quiz by Minwoo</title>
+	<link rel="stylesheet" type="text/css" href="reset.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="application.js"></script>
+	<script type="text/javascript" src="q_and_a.js"></script>
+</head>
+<body>
+	<!-- ////////// HOME PAGE ///////// -->
+	<div class="container homepage">
+		<div class="title">
+			<h1>Guitar Quiz</h1>
+		</div>
+		<div class="titleimg"></div>
+		<div class="subtitle">
+			<h2>Take The Quiz<br/>
+			&amp; Prove Your Knowledge of Guitar!</h2>
+		</div>
+
+		<a href='#'><div id='play' class="playbutton">PLAY</div></a>
+	</div>
+	
+
+	<!-- ////////// QUESTION PAGE ///////// -->
+
+	<div class="container qpage">
+		<header></header>
+			<div class="qheadline">Question</div>
+			<div class="qnum"><!-- Here comes the question number. --></div>
+			<div class="questions">
+				<!-- Here comes the question -->
+			</div>
+			<div class="answers">
+				<a href='#'><div id='ans1' class="answer floatleft"><!-- Here comes the answer 1 --></div></a>
+				<a href='#'><div id='ans2' class="answer floatright"><!-- Here comes the answer 2 --></div></a>
+				<a href='#'><div id='ans3' class="answer floatleft"><!-- Here comes the answer 3 --></div></a>
+				<a href='#'><div id='ans4' class="answer floatright"><!-- Here comes the answer 4 --></div></a>
+			</div>
+			<a href='#'><div id='submit' class='btn'>Submit</div></a>
+
+	</div>
+
+	<!-- ////////// CORRECT PAGE ///////// -->
+	<div class="container correctpage">
+		<header></header>
+			<div class="anshead">Correct! :)</div>
+			<div class="explaincontainer">
+				<div class="ansimg correctimg"></div>
+				<div class="explain">
+				Here comes explanation. Answer and explanation.
+	lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+				</div>	
+			</div>
+			<a href='#'><div class='continue btn'>Continue</div></a>
+	</div>
+
+
+	<!-- ////////// WRONG PAGE ///////// -->
+	<div class="container wrongpage">
+		<header></header>
+		<div class="anshead">Wrong :(</div>
+		<div class="explaincontainer">
+			<div class="ansimg wrongimg"></div>
+			<div class="explain">
+			Here comes explanation. Answer and explanation.
+lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+			</div>	
+		</div>
+		<a href='#'><div class='continue btn'>Continue</div></a>
+	</div>
+
+	<!-- ////////// FINISHED PAGE ///////// -->
+	<div class="container finishpage">
+		<header></header>
+		<div class='finishhead'>Congratulations! :)</div>
+		<div class='finishimg'></div>
+		<div class='score'>Your overall score is <span id='score'></span> out of 6.</div> 
+		<div class='score'>You got <span id='scorepercent'></span> % correct!!</div> 
+	</div>
+
+
+</body>
+</html>

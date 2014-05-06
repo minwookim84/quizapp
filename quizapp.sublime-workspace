@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"random",
+				"randomNum-guessNum"
+			],
+			[
+				"count",
+				"countNum"
+			],
+			[
+				"guess",
+				"guessNum"
+			],
+			[
+				"fizbuzz",
+				"fizzbuzzFunction"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"remov",
+				"removeIcon"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"ryu",
+				"ryuReady"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"ha",
+				"hadouken-sound"
+			],
+			[
+				"r",
+				"ryu-ready"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"ffffff",
+				"FFFFFF"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"d",
+				"decimal-leading-zero"
+			],
+			[
+				"Nanum",
+				"nanumgothic"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"footer",
+				"footer_left"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list-",
+				"list-style-position"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"he",
+				"head	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/minwoo/Desktop/Github/js_opentutorial/number_string/demo1.html",
+		"/Users/minwoo/Desktop/Github/js_opentutorial/minwoo.js",
+		"/Users/minwoo/Desktop/Github/fizzbuzz/fizzbuzz_refactor.js",
+		"/Users/minwoo/Desktop/Github/fizzbuzz/index2.html",
+		"/Users/minwoo/Desktop/Github/fizzbuzz/fizzbuzz_while.js",
+		"/Users/minwoo/Desktop/Github/fizzbuzz/index.html",
+		"/Users/minwoo/Desktop/Github/fizzbuzz/fizz-buzz.js",
+		"/Users/minwoo/Desktop/Github/vote2014/style.css",
+		"/Users/minwoo/Desktop/Github/vote2014/index.html",
+		"/Users/minwoo/Desktop/Github/Shopping List/index.html",
+		"/Users/minwoo/Desktop/Github/shoplistm/application.js",
+		"/Users/minwoo/Desktop/Github/Shopping List/main.css",
+		"/Users/minwoo/Desktop/Github/Shopping List/application.js",
+		"/Users/minwoo/Desktop/Github/jquery_streetfighter/js/app.js",
+		"/Users/minwoo/Desktop/Github/jquery_streetfighter/main.html",
+		"/Users/minwoo/Desktop/Github/jquery_streetfighter/css/main.css",
+		"/Users/minwoo/Desktop/Github/Shopping List/Metrize_Icons/SVG/adjust.svg",
+		"/Users/minwoo/Desktop/Github/jquery_streetfighter/css/reset.css",
+		"/Users/minwoo/Desktop/InfoPlist.strings",
+		"/System/Library/CoreServices/Finder.app/Contents/Resources/ko.lproj/InfoPlist.strings",
+		"/Users/minwoo/Desktop/Github/vote2014livere/index.html",
+		"/Users/minwoo/Desktop/Github/vote2014livere/style.css",
+		"/Users/minwoo/Desktop/Github/Small Business Site/style.css",
+		"/Users/minwoo/Desktop/Github/Small Business Site/index.html",
+		"/Users/minwoo/Desktop/Github/Vote2014/index.html",
+		"/Users/minwoo/Desktop/Github/Vote2014/style.css",
+		"/Users/minwoo/Desktop/vote2014/index.html",
+		"/Users/minwoo/Desktop/Thinkful/google-clone/main.css",
+		"/Users/minwoo/Desktop/Thinkful/google-clone/index.html",
+		"/Users/minwoo/Desktop/Thinkful/buisness-site/style.css",
+		"/Users/minwoo/Desktop/Thinkful/buisness-site/index.html",
+		"/Users/minwoo/Desktop/Thinkful/index.html",
+		"/Users/minwoo/Desktop/Thinkful/css-resume/css-resume.html",
+		"/Users/minwoo/Desktop/Thinkful/css-resume/resume_stylesheet.css",
+		"/Users/minwoo/Desktop/Thinkful/sorting friends/stylesheet.css",
+		"/Users/minwoo/Desktop/Thinkful/sorting friends/index2.html",
+		"/Users/minwoo/Desktop/Thinkful/html-resume/resume.html",
+		"/Users/minwoo/Desktop/Thinkful/index2.html",
+		"/Users/minwoo/Desktop/Thinkful/stylesheet.css",
+		"/Users/minwoo/Desktop/Thinkful/resume.html",
+		"/Users/minwoo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/minwoo/Desktop/Thinkful/helloworld.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"randomNum-",
+			".text()",
+			".text",
+			"guess",
+			"hover",
+			"\"new\"",
+			"button",
+			"90px",
+			"폴더",
+			"footer",
+			"margin-right",
+			"display:none",
+			"desc_im",
+			"a{",
+			"redbox",
+			"text_desc",
+			"redbox",
+			".visual_list>li",
+			".visual_list>li{",
+			".text_list>li",
+			"text-align:center",
+			".subtitle",
+			"li",
+			"desc_",
+			"subtitle",
+			"</div>",
+			"float:left",
+			"float:rig",
+			"desc_imag",
+			".text_l",
+			"ul",
+			"h2",
+			"membership",
+			"margin-top",
+			"background",
+			"min-width",
+			"http://",
+			"px",
+			"##",
+			"https",
+			"100%",
+			"position:absolute",
+			"form",
+			"footer{",
+			"#footer",
+			"clear",
+			"absolute",
+			"img src",
+			"검색",
+			"form",
+			"font",
+			"font-fami",
+			"line-height",
+			"button",
+			"class",
+			"font",
+			"class",
+			"1400px",
+			"To the Top",
+			"/SEC",
+			"h2",
+			".section",
+			"text-align",
+			"style="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
